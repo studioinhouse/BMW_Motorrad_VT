@@ -1,0 +1,48 @@
+@font-face {
+   font-family: "BMW Motorrad Heavy";
+   src: url("fonts/BMW Motorrad Heavy.woff") format("woff"), url("fonts/BMW Motorrad Heavy.eot") format("embedded-opentype"), url("fonts/BMW Motorrad Heavy.ttf") format("truetype"), url("fonts/BMW Motorrad Heavy.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "BMW Motorrad Heavy";
+   src: url("fonts/BMW Motorrad Heavy Italic.woff") format("woff"), url("fonts/BMW Motorrad Heavy Italic.eot") format("embedded-opentype"), url("fonts/BMW Motorrad Heavy Italic.ttf") format("truetype"), url("fonts/BMW Motorrad Heavy Italic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "BMW Motorrad Outline";
+   src: url("fonts/BMW Motorrad Outline Regular.woff") format("woff"), url("fonts/BMW Motorrad Outline Regular.eot") format("embedded-opentype"), url("fonts/BMW Motorrad Outline Regular.ttf") format("truetype"), url("fonts/BMW Motorrad Outline Regular.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "BMW Motorrad";
+   src: url("fonts/BMW Motorrad Bold.woff") format("woff"), url("fonts/BMW Motorrad Bold.eot") format("embedded-opentype"), url("fonts/BMW Motorrad Bold.ttf") format("truetype"), url("fonts/BMW Motorrad Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "BMW Motorrad";
+   src: url("fonts/BMW Motorrad Bold Italic.woff") format("woff"), url("fonts/BMW Motorrad Bold Italic.eot") format("embedded-opentype"), url("fonts/BMW Motorrad Bold Italic.ttf") format("truetype"), url("fonts/BMW Motorrad Bold Italic.svg") format("svg");
+   font-weight: bold;
+   font-style: italic;
+}
+@font-face {
+   font-family: "BMW Motorrad";
+   src: url("fonts/BMW Motorrad Italic.woff") format("woff"), url("fonts/BMW Motorrad Italic.eot") format("embedded-opentype"), url("fonts/BMW Motorrad Italic.ttf") format("truetype"), url("fonts/BMW Motorrad Italic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "BMW Motorrad";
+   src: url("fonts/BMW Motorrad Regular.woff") format("woff"), url("fonts/BMW Motorrad Regular.eot") format("embedded-opentype"), url("fonts/BMW Motorrad Regular.ttf") format("truetype"), url("fonts/BMW Motorrad Regular.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "BMW Motorrad Light";
+   src: url("fonts/BMW Motorrad Light.woff") format("woff"), url("fonts/BMW Motorrad Light.eot") format("embedded-opentype"), url("fonts/BMW Motorrad Light.ttf") format("truetype"), url("fonts/BMW Motorrad Light.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
