@@ -11,6 +11,8 @@ tour.name = BMW VT Guatemala
 ## Skin
 
 ### Botón
+Button_AF91FC88_9F5A_553F_41D5_AB2A9C0DB4FE.label = CONTÁCTANOS
+Button_AF91FC88_9F5A_553F_41D5_AB2A9C0DB4FE.pressedLabel = COMENTARIOS Y SUGERENCIAS
 Button_B9BF1F1F_AAD5_9FED_41D4_A0A6BF07A8B2.label = TOUR
 Button_BB5D75A0_AAD5_E2D3_41CA_451CD06F8D3E.label = URBAN
 Button_BC7076EC_AAF4_AE53_41D5_8BBEF82DE940.label = SITIO WEB
@@ -371,5 +373,6 @@ overlay_C92B7E67_DDF9_A949_41CC_12597B371B2A.url = //www.youtube.com/embed/9I102
 ### URL
 LinkBehaviour_473404DF_99FA_BED7_41DB_13A73A9316E2.source = http://www.bavaria.com.gt:8079/voc_helpdesk
 LinkBehaviour_8F3463CA_CC20_E4DD_41AC_56E972DADCC6.source = http://www.bavaria.com.gt:8079/voc_helpdesk
+LinkBehaviour_AF929C88_9F5A_553F_41C0_3E54EEE6074E.source = https://www.bmw-motorrad.com/en_DE/importeur/importercontent.html?importer=guatemala
 LinkBehaviour_E17DEAD9_8F8A_5E46_41CF_CAF43EEAF552.source = https://www.bmw-motorrad.gt/es/home.html#/filter-todo
 LinkBehaviour_E37E7BB0_8F8A_DEC6_41B9_A0B2CAAED454.source = http://www.bavaria.com.gt/formulario/leads/

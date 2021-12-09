@@ -1,4 +1,8 @@
 {
+ "display": "fullscreen",
+ "name": "BMW VT Guatemala",
+ "description": "Tour Virtual sala de ventas BMW Motorrad Guatemala",
+ "background_color": "#CCFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -36,10 +40,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "name": "BMW VT Guatemala",
- "description": "Tour Virtual sala de ventas BMW Motorrad Guatemala",
- "display": "fullscreen",
- "start_url": "index.htm?installed=true",
  "theme_color": "#CCFFFF",
- "background_color": "#CCFFFF"
+ "start_url": "index.htm?installed=true"
 }
