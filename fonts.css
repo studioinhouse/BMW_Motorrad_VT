@@ -46,27 +46,3 @@
    font-weight: normal;
    font-style: normal;
 }
-@font-face {
-   font-family: "BMWType V2 Regular";
-   src: url("fonts/BMWType V2 Regular Bold.woff") format("woff"), url("fonts/BMWType V2 Regular Bold.eot") format("embedded-opentype"), url("fonts/BMWType V2 Regular Bold.TTF") format("truetype"), url("fonts/BMWType V2 Regular Bold.svg") format("svg");
-   font-weight: bold;
-   font-style: normal;
-}
-@font-face {
-   font-family: "BMWType V2 Regular";
-   src: url("fonts/BMWType V2 Regular Bold Italic.woff") format("woff"), url("fonts/BMWType V2 Regular Bold Italic.eot") format("embedded-opentype"), url("fonts/BMWType V2 Regular Bold Italic.TTF") format("truetype"), url("fonts/BMWType V2 Regular Bold Italic.svg") format("svg");
-   font-weight: bold;
-   font-style: italic;
-}
-@font-face {
-   font-family: "BMWType V2 Regular";
-   src: url("fonts/BMWType V2 Regular.woff") format("woff"), url("fonts/BMWType V2 Regular.eot") format("embedded-opentype"), url("fonts/BMWType V2 Regular.TTF") format("truetype"), url("fonts/BMWType V2 Regular.svg") format("svg");
-   font-weight: normal;
-   font-style: normal;
-}
-@font-face {
-   font-family: "BMWType V2 Regular";
-   src: url("fonts/BMWType V2 Regular Italic.woff") format("woff"), url("fonts/BMWType V2 Regular Italic.eot") format("embedded-opentype"), url("fonts/BMWType V2 Regular Italic.TTF") format("truetype"), url("fonts/BMWType V2 Regular Italic.svg") format("svg");
-   font-weight: normal;
-   font-style: italic;
-}
